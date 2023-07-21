@@ -2,8 +2,8 @@
 
 
 - [ ]
-    > [!Note]\
+    > [!Note]
     > This is Note!
 - [x]
-    > [!Note]\
+    > [!Note]
     > This is Note!
